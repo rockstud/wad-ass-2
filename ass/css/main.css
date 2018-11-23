@@ -1,0 +1,56 @@
+header,
+footer{
+	background: url(../images/bg.jpg) no-repeat;
+	font-family: Georgia, serif;
+	color: #fff;
+
+	}
+
+header.jumbotron,
+footer.jumbotron{
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+header.jumbotron{
+padding:0px;
+}
+
+
+header.jumbotron h1,h5{
+      width: -webkit-fill-available;
+}
+.container.head{
+ margin:100px;
+ padding:150px;
+ padding-top:0px;
+ margin-bottom:20px;
+}
+.container.main{
+	padding: 20px 0;
+}
+.container.top{
+	margin:0px auto;
+	background-color:black;
+	width:100%;
+	max-width:100%;
+}
+.container.top p
+{
+  color:white;
+}
+.container.navi{
+  margin:0px auto;
+  max-margin:0%
+  padding:0px;
+}
+.container.bot{
+	margin:0px auto;
+	background-color:lightgray;
+	width:100%;
+	max-width:100%;
+	padding: 20px 0;
+}
+.button{
+	width:100%;
+	max-width:100%;
+}
